@@ -8,8 +8,8 @@ Au Coin, also known as XAU for short, is a coin token standing for gold stored i
 This coin is now RELEASING.
 
 Name: XAU
-Total Supply: 1,274,000,000 XAU
-Contract: 0xadf07ae026c660968223f9f376a928523f248b69
-Etherscan: https://etherscan.io/token/0xadf07ae026c660968223f9f376a928523f248b69
-Trade Market: http://www.xautrader.tk/
-OTC Market: http://otc.xautrader.tk/
+Total Supply: 1,274,000,000 XAU  
+Contract: 0xadf07ae026c660968223f9f376a928523f248b69  
+Etherscan: https://etherscan.io/token/0xadf07ae026c660968223f9f376a928523f248b69  
+Trade Market: http://www.xautrader.tk/  
+OTC Market: http://otc.xautrader.tk/  
